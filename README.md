@@ -77,4 +77,4 @@ data/                   -- (not included; see Dataset section to download from K
 
 ## Author
 
-[Your Name] — IIT Bombay, Class of 2027
+Prabhat Kumar — IIT Bombay, Class of 2027
